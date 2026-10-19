@@ -514,7 +514,9 @@ p { margin: 0 0 1.1rem; }
   .two-col { grid-template-columns: 1fr; }
   .diary { padding: 1.3rem 1.1rem 1.1rem; }
   .letter { padding: 1.5rem 1.1rem; }
+  .site-header { position: static; }
   .site-header .inner { justify-content: center; }
+  .trait { scroll-margin-top: 1rem; }
 }
 
 @media print {
